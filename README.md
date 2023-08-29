@@ -1,5 +1,5 @@
 
-# Project Title
+# Homepage Ui
 
 This is the homepage responsive ui. made with ReactJs and Tainwind Css.
 
