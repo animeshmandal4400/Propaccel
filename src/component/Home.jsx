@@ -4,6 +4,9 @@ import WorkCard from './WorkCard'
 import { BsInstagram, BsFacebook, BsTwitter, BsLinkedin } from 'react-icons/bs';
 import Navbar from './Navbar';
 import profileImage from '../assets/profile.png';
+import work1Img from '../assets/work1.png'
+import work2Img from '../assets/work2.png'
+import work3Img from '../assets/work3.png'
 
 const Home = () => {
   return (
@@ -65,21 +68,21 @@ const Home = () => {
                 <h2 className='text-2xl md:text-left mb-8 font-semibold'>Featured Works</h2>
             <div className='max-w-[1280px]'>
             <WorkCard
-                imageSrc='/src/assets/work1.png'
+                imageSrc={work1Img}
                 title='Designing Dashboards'
                 year='2022'
                 tag='Dashboard'
                 description='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue nisl eget libero fringilla, vitae vulputate purus euismod.'
               />
               <WorkCard
-                imageSrc='/src/assets/work2.png'
+                imageSrc={work2Img}
                 title='Vibrant Portraits of 2020'
                 year='2022'
                 tag='Design'
                 description='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue nisl eget libero fringilla, vitae vulputate purus euismod.'
               />
               <WorkCard
-                imageSrc='/src/assets/work3.png'
+                imageSrc={work3Img}
                 title='36 Days of Malayalam type'
                 year='2022'
                 tag='Typography'
