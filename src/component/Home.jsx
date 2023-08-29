@@ -3,6 +3,7 @@ import PostCard from './PostCard'
 import WorkCard from './WorkCard'
 import { BsInstagram, BsFacebook, BsTwitter, BsLinkedin } from 'react-icons/bs';
 import Navbar from './Navbar';
+import profileImage from '../assets/profile.png';
 
 const Home = () => {
   return (
@@ -25,7 +26,7 @@ const Home = () => {
                 </div>
             </div>
             <div className='md:w-[40%] flex justify-center items-center md:mt-0 order-first md:order-last'>
-                <img src='../assets/profile.png' className='md:w-[243px] md:h-[243px] w-40 h-40 rounded-full object-cover' />
+                <img src={profileImage} className='md:w-[243px] md:h-[243px] w-40 h-40 rounded-full object-cover' />
             </div>
         </section>
 
