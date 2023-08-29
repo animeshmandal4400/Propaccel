@@ -17,9 +17,11 @@ This is Desktop view:
 
 ### This is the Movie View:
 <img width="956" alt="home4" src="https://github.com/animeshmandal4400/Propaccel/assets/64139477/b1c38a5a-8135-47e2-a6fa-5e2df2f2627a">
-<img width="960" alt="home 7" src="https://github.com/animeshmandal4400/Propaccel/assets/64139477/261e270c-9677-4f89-a79c-32e3eda13972">
-<img width="960" alt="home 6" src="https://github.com/animeshmandal4400/Propaccel/assets/64139477/a0ef33e7-e5b7-4a5a-a33a-38b47a1e4944">
 <img width="960" alt="home5" src="https://github.com/animeshmandal4400/Propaccel/assets/64139477/e2a15229-58c2-4343-b7a3-d197dde5e292">
+<img width="960" alt="home 6" src="https://github.com/animeshmandal4400/Propaccel/assets/64139477/a0ef33e7-e5b7-4a5a-a33a-38b47a1e4944">
+<img width="960" alt="home 7" src="https://github.com/animeshmandal4400/Propaccel/assets/64139477/261e270c-9677-4f89-a79c-32e3eda13972">
+
+
 
 
 ## Live link
