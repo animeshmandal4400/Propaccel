@@ -15,7 +15,7 @@ const Home = () => {
             <Navbar/>
             <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-lg px-4 py-6 md:py-16 items-center md:items-start'>
               <div className='md:w-[60%] flex flex-col md:text-left text-center md:mt-0 mt-4'>
-                  <h3 className='text-4xl font-bold md:text-5xl'>
+                  <h3 className='md:mt-0 mt-10 text-4xl font-bold md:text-5xl'>
                      Hi, I am Jhon,<br />
                       <span>Creative Technologist</span>
                   </h3>
@@ -34,7 +34,7 @@ const Home = () => {
         </section>
 
 
-        <section className='w-full sm:mt-16 md:mt-24 bg-bg-light'>
+        <section className='w-full mt-16 md:mt-24 bg-bg-light'>
         <div className='max-w-screen-lg mx-auto px-4 py-16'>
           <div className='flex flex-col md:flex-row justify-between mb-8 items-center'>
             <h1 className='text-2xl md:text-left font-semibold mb-4 md:mb-0'>Recent Posts</h1>
