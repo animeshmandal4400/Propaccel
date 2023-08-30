@@ -13,8 +13,8 @@ const Home = () => {
     <>
       <div className='w-full h-full font-Heebo text-text-dark'>
             <Navbar/>
-            <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-lg px-4 py-6 md:py-16'>
-            <div className='md:w-[60%]  flex flex-col md:text-left text-center mt-16 md:mt-36'>
+            <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-lg px-4 py-6 md:py-16 items-center justify-center'>
+            <div className='md:w-[60%]  flex flex-col md:text-left text-center mt-4 '>
                 <h3 className='text-4xl font-bold md:text-6xl'>
                      Hi, I am Jhon,<br />
                     <span>Creative Technologist</span>
