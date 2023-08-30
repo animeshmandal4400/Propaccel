@@ -14,7 +14,7 @@ const Home = () => {
       <div className='w-full h-full font-Heebo text-text-dark'>
             <Navbar/>
             <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-lg px-4 py-6 md:py-16 items-center md:items-start'>
-              <div className='md:w-[60%] flex flex-col md:text-left text-center md:mt-0 mt-4'>
+              <div className='md:w-[60%] flex flex-col md:px-0 px-2 md:text-left text-center md:mt-0 mt-4'>
                   <h3 className='md:mt-0 mt-10 text-4xl font-bold md:text-5xl'>
                      Hi, I am Jhon,<br />
                       <span>Creative Technologist</span>
