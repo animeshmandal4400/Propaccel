@@ -13,7 +13,7 @@ const Home = () => {
     <>
       <div className='w-full h-full font-Heebo text-text-dark'>
             <Navbar/>
-            <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-xl px-4 py-6 md:py-16'>
+            <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-lg px-4 py-6 md:py-16'>
             <div className='md:w-[60%]  flex flex-col md:text-left text-center mt-16 md:mt-36'>
                 <h3 className='text-4xl font-bold md:text-6xl'>
                      Hi, I am Jhon,<br />
@@ -34,7 +34,7 @@ const Home = () => {
         </section>
 
         <section className='w-full sm:mt-16 md:mt-24 bg-bg-light'>
-        <div className='max-w-screen-xl mx-auto px-4 py-16'>
+        <div className='max-w-screen-lg mx-auto px-4 py-16'>
           <div className='flex flex-col md:flex-row justify-between mb-8 items-center'>
             <h1 className='text-2xl md:text-left font-semibold mb-4 md:mb-0'>Recent Posts</h1>
             <a className='text-blue-500 hover:underline hidden md:block md:text-left'>View all</a>
@@ -64,7 +64,7 @@ const Home = () => {
 
 
         <section className='w-full py-16 md:py-32'>
-        <div className='max-w-screen-xl mx-auto px-4'> 
+        <div className='max-w-screen-lg mx-auto px-4'> 
                 <h2 className='text-2xl md:text-left mb-8 font-semibold'>Featured Works</h2>
             <div className='max-w-[1280px]'>
             <WorkCard
