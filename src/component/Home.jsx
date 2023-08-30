@@ -14,14 +14,14 @@ const Home = () => {
       <div className='w-full h-full font-Heebo text-text-dark'>
             <Navbar/>
             <section className='w-full flex flex-col md:flex-row mx-auto max-w-screen-lg px-4 py-6 md:py-16 items-center md:items-start'>
-              <div className='md:w-[60%] flex flex-col md:text-left text-center mt-4'>
+              <div className='md:w-[60%] flex flex-col md:text-left text-center md:mt-0 mt-4'>
                   <h3 className='text-4xl font-bold md:text-5xl'>
                      Hi, I am Jhon,<br />
                       <span>Creative Technologist</span>
                   </h3>
-              <p className='mt-10 text-lg md:text-xl'>
-                Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
-              </p>
+                  <p className='mt-10 text-lg md:text-xl'>
+                      Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
+                  </p>
             <div className='flex md:justify-start justify-center items-center mt-10'>
             <button className='w-52 h-12 rounded-sm text-xl text-white bg-btn'>
                 Download Resume
